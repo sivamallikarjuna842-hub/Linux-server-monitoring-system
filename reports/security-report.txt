@@ -1,0 +1,13 @@
+SERVER SECURITY REPORT
+=======================
+Date: Mon Sep 14 12:26:23 UTC 2026
+
+Failed Login Attempts: 5
+Successful Logins: 1
+
+Recent Failed Logins:
+echo "Failed password for admin from 192.168.1.10" >> sample-logs/auth.log
+echo "Failed password for admin from 192.168.1.10" >> sample-logs/auth.log
+echo "Failed password for root from 192.168.1.20" >> sample-logs/auth.log
+echo "Failed password for test from 192.168.1.20" >> sample-logs/auth.log
+echo "Failed password for admin from 192.168.1.10" >> sample-logs/auth.log
